@@ -3,7 +3,7 @@
 /local.properties
 
 # 签名相关（本地密钥）
-app/keystore/
+# app/keystore/  # 临时移除以便提交
 *.jks
 # *.keystore  # 保留在仓库中
 
