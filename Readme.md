@@ -40,7 +40,8 @@ Android Studio 2025.1.3
 
 4. 将生成的"uniappx/app-android/src"文件夹下的所有东西复制粘贴到"此项目"的"app/src/main/java"文件夹下
 
-
+5. gradle.properties配置自己的相关签名
+   ![alt text](image.png)
 
 5. 使用Android Studio打开"此项目",直接打包即可。
 
