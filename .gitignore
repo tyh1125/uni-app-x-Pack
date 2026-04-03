@@ -3,9 +3,9 @@
 /local.properties
 
 # 签名相关（本地密钥）
-# app/keystore/  # 允许提交 keystore 目录
+app/keystore/
 *.jks
-*.keystore
+# *.keystore  # 保留在仓库中
 
 # Gradle 配置
 gradle.properties
