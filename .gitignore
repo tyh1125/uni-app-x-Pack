@@ -7,19 +7,15 @@ app/keystore/
 *.jks
 *.keystore
 
-# Gradle 配置（包含本地设置）
-# gradle.properties
+# Gradle 配置
+gradle.properties
 
 # App 构建产物
 app/build/
 
 # IDE
-.idea/caches
-.idea/libraries
-.idea/modules.xml
-.idea/workspace.xml
-.idea/navEditor.xml
-.idea/assetWizardSettings.xml
+.idea/
+.claude/
 
 .DS_Store
 /build
