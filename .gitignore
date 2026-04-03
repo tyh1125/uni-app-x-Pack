@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+
+# 签名相关
+app/keystore/
+*.jks
+*.keystore
+
+# Gradle 配置（包含本地设置）
+# gradle.properties
+
+# App 构建产物
+app/build/
+
+# IDE
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.kotlin

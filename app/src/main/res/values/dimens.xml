@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 修复 uniad-hw 缺失的尺寸 -->
+    <dimen name="hiad_18_dp">18dp</dimen>
+    <dimen name="hiad_text_13_sp">13sp</dimen>
+    <dimen name="hiad_text_12_sp">12sp</dimen>
+    <dimen name="hiad_8_dp">8dp</dimen>
+    <dimen name="hiad_4_dp">4dp</dimen>
+</resources>
