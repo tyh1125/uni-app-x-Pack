@@ -2,8 +2,8 @@
 .gradle
 /local.properties
 
-# 签名相关
-app/keystore/
+# 签名相关（本地密钥）
+# app/keystore/  # 允许提交 keystore 目录
 *.jks
 *.keystore
 
